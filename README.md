@@ -1,11 +1,19 @@
-# <div align="center">🚀 **Nakin BB** 🚀</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+# <div align="center">🐍 **Nakin BB** 🐍</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Part-time+Programmer;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD;15+Years+Old+Prodigy;NextJS+Enthusiast;Future+OpenAI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD;15+Years+Old+Prodigy;NextJS+%26+Python+Expert;Future+OpenAI+Engineer;VSCode+Power+User" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/execNakin/execNakin/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/execNakin/execNakin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/execNakin/execNakin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/execNakin/execNakin/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -15,10 +23,13 @@
 name: Nakin BB
 age: 15
 location: Thailand 🇹🇭
+main_language: Python 🐍
+editor: VSCode 💙
 status: Building the future, one line at a time
 dream_job: OpenAI Engineer
-current_focus: NextJS Mastery
+current_focus: NextJS + Python Mastery
 fun_fact: Gen Z coding prodigy
+motto: "Code is poetry, Python is my language"
 ```
 
 ## 🔥 **What I'm Up To**
@@ -32,11 +43,14 @@ fun_fact: Gen Z coding prodigy
 
 <div align="center">
 
-### **Languages**
+### **Primary Language & Editor**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Other Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Frontend**
@@ -109,10 +123,12 @@ fun_fact: Gen Z coding prodigy
   
 ```
   ┌─────────────────────────────────────┐
+  │  🐍 Main Language: Python          │
+  │  💙 Editor: VSCode                  │
   │  🎯 Mission: Become OpenAI Engineer │
   │  🚀 Age: 15 but coding like a pro   │
   │  🌏 Location: Thailand              │
-  │  💡 Motto: Code today, lead tomorrow│
+  │  💡 Motto: Code is poetry 🎭        │
   └─────────────────────────────────────┘
 ```
 
@@ -126,4 +142,8 @@ fun_fact: Gen Z coding prodigy
 
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them interesting! ⭐</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
