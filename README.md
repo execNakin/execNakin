@@ -33,7 +33,7 @@ motto: "Code is poetry, Python is my language"
 ## 🔥 **What I'm Up To**
 - 🚧 **Previously:** Built KeyGuard (Discontinued but learned tons!)
 - 🌱 **Learning:** NextJS - Creating modern web experiences
-- 🎯 **Goal:** Land a role at OpenAI
+- 🎯 **Goal:** Get into Chulachomklao Royal Military Academy
 - 💡 **Age:** Just 15 and already coding like a pro
 - 📧 **Contact:** markx054@gmail.com
 
@@ -120,14 +120,14 @@ motto: "Code is poetry, Python is my language"
 <div align="center">
   
 ```
-  ┌─────────────────────────────────────┐
-  │  🐍 Main Language: Python          │
-  │  💙 Editor: VSCode                  │
-  │  🎯 Mission: Become OpenAI Engineer │
-  │  🚀 Age: 15 but coding like a pro   │
-  │  🌏 Location: Thailand              │
-  │  💡 Motto: Code is poetry 🎭        │
-  └─────────────────────────────────────┘
+  ┌───────────────────────────────────────────┐
+  │  🐍 Main Language: Python                 │
+  │  💙 Editor: VSCode                        │
+  │  🎯 Mission: Become a soldier like my dad │
+  │  🚀 Age: 15 but coding like a pro         │
+  │  🌏 Location: Thailand                    │
+  │  💡 Motto: Code is poetry 🎭             │
+  └───────────────────────────────────────────┘
 ```
 
 </div>
