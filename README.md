@@ -1,147 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=160&section=header&text=Nakin%20BB&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=Python+Developer;Based+in+Thailand;Learning+Next.js" alt="Typing SVG" />
+
 </div>
 
-# <div align="center">🐍 **Nakin BB** 🐍</div>
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD;15+Years+Old+Prodigy;NextJS+%26+Python+Expert;Future+OpenAI+Engineer;VSCode+Power+User" alt="Typing SVG" />
-</div>
+## About
 
-<div align="center">
-  <picture>
-
-  </picture>
-</div>
-
----
-
-## 🎯 **Current Mission**
-```yaml
-name: Nakin BB
-age: 15
-location: Thailand 🇹🇭
-main_language: Python 🐍
-editor: VSCode 💙
-status: Building the future, one line at a time
-dream_job: OpenAI Engineer
-current_focus: NextJS + Python Mastery
-fun_fact: Gen Z coding prodigy
-motto: "Code is poetry, Python is my language"
+```
+name        Nakin BB
+age         16
+location    Thailand
+editor      VS Code
+language    Python
+focus       Next.js, Python
+goal        Chulachomklao Royal Military Academy
 ```
 
-## 🔥 **What I'm Up To**
-- 🚧 **Previously:** Built KeyGuard (Discontinued but learned tons!)
-- 🌱 **Learning:** NextJS - Creating modern web experiences
-- 🎯 **Goal:** Get into Chulachomklao Royal Military Academy
-- 💡 **Age:** Just 15 and already coding like a pro
-- 📧 **Contact:** markx054@gmail.com
+## Currently
 
-## 🛠️ **Tech Arsenal**
+- Learning Next.js, building modern web interfaces
+- Preparing for Chulachomklao Royal Military Academy
+- Previously worked on KeyGuard (discontinued)
+- Contact: [markx054@gmail.com](mailto:markx054@gmail.com)
+
+<br>
+
+## Stack
 
 <div align="center">
 
-### **Primary Language & Editor**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Other Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **AI/ML & Tools**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-### **Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Design & Game Dev**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,django,dotnet,vue,csharp,cpp,c,php,mongodb,mysql,postgres,tensorflow,pytorch,opencv,pandas,gcp,firebase,git,linux,figma,unrealengine,vscode&theme=light&perline=9" />
 
 </div>
 
----
+<br>
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=execnakin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=execnakin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&icon_color=555555&title_color=111111&text_color=555555"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=111111&text_color=555555"/>
 
----
-
-## 🌐 **Connect With Me**
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruh__beee)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markx054@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/execNakin)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&theme=default&hide_border=true&ring=555555&fire=555555&currStreakLabel=555555" alt="GitHub Streak" />
 
 </div>
 
----
+<br>
 
-## 🎮 **Fun Zone**
+## Contact
 
 <div align="center">
-  
-```
-  ┌───────────────────────────────────────────┐
-  │  🐍 Main Language: Python                 │
-  │  💙 Editor: VSCode                        │
-  │  🎯 Mission: Become a soldier like my dad │
-  │  🚀 Age: 15 but coding like a pro         │
-  │  🌏 Location: Thailand                    │
-  │  💡 Motto: Code is poetry 🎭             │
-  └───────────────────────────────────────────┘
-```
+
+[Instagram](https://instagram.com/bruh__beee) · [Email](mailto:markx054@gmail.com) · [GitHub](https://github.com/execNakin)
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=execnakin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
+<br>
 
 <div align="center">
-  <h3>⭐ Don't forget to star my repositories if you find them interesting! ⭐</h3>
+<img src="https://komarev.com/ghpvc/?username=execnakin&label=Profile+Views&color=555555&style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:111111&height=100&section=footer"/>
 </div>
