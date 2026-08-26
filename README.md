@@ -1,71 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=160&section=header&text=Nakin%20BB&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:242424&height=180&section=header&text=Nakin%20BB&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=Python+Developer;Based+in+Thailand;Learning+Next.js" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Python+Developer;Based+in+Thailand;Learning+Next.js" alt="Typing SVG"/>
 
 <br>
 
-## About
+<a href="https://github.com/execnakin">
+  <img src="https://komarev.com/ghpvc/?username=execnakin&label=Profile%20Views&color=666666&style=flat-square" alt="Profile Views"/>
+</a>
 
-```
-name        Nakin BB
-age         16
-location    Thailand
-editor      VS Code
-language    Python
-focus       Next.js, Python
-goal        Chulachomklao Royal Military Academy
+</div>
+
+---
+
+## About Me
+
+```text
+Name        Nakin BB
+Age         16
+Location    Thailand
+Editor      VS Code
+Main Lang   Python
+Focus       Python · Next.js
+Goal        Chulachomklao Royal Military Academy
 ```
 
 ## Currently
 
-- Learning Next.js, building modern web interfaces
-- Preparing for Chulachomklao Royal Military Academy
-- Previously worked on KeyGuard (discontinued)
-- Contact: [markx054@gmail.com](mailto:markx054@gmail.com)
+> Building projects, learning new technologies, and improving my development skills.
 
-<br>
+* Learning **Next.js** and modern web development
+* Working mainly with **Python**
+* Preparing for **Chulachomklao Royal Military Academy**
+* Previously worked on **KeyGuard** `(discontinued)`
+* Contact: **[markx054@gmail.com](mailto:markx054@gmail.com)**
 
-## Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,django,dotnet,vue,csharp,cpp,c,php,mongodb,mysql,postgres,tensorflow,pytorch,opencv,pandas,gcp,firebase,git,linux,figma,unrealengine,vscode&theme=light&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,django,dotnet,vue,csharp,cpp,c,php,mongodb,mysql,postgres,tensorflow,pytorch,opencv,pandas,gcp,firebase,git,linux,figma,unrealengine,vscode&perline=9" />
 
 </div>
-
-<br>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&icon_color=555555&title_color=111111&text_color=555555"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=111111&text_color=555555"/>
+<a href="https://github.com/execnakin">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=111111&text_color=555555&icon_color=444444" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&theme=default&hide_border=true&ring=555555&fire=555555&currStreakLabel=555555" alt="GitHub Streak" />
+<a href="https://github.com/execnakin">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=111111&text_color=555555" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&hide_border=true&theme=default&ring=555555&fire=555555&currStreakLabel=555555" alt="GitHub Streak"/>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/execnakin">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/bruh__beee">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:markx054@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-## Contact
-
 <div align="center">
 
-[Instagram](https://instagram.com/bruh__beee) · [Email](mailto:markx054@gmail.com) · [GitHub](https://github.com/execNakin)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:0f0f0f&height=110&section=footer"/>
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=execnakin&label=Profile+Views&color=555555&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:111111&height=100&section=footer"/>
 </div>
