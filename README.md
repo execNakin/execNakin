@@ -49,34 +49,16 @@ Goal        Chulachomklao Royal Military Academy
 <div align="center">
 
 <a href="https://github.com/execnakin">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=111111&text_color=555555&icon_color=444444" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=111111&text_color=555555&icon_color=444444" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/execnakin">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=111111&text_color=555555" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=111111&text_color=555555" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&hide_border=true&theme=default&ring=555555&fire=555555&currStreakLabel=555555" alt="GitHub Streak"/>
-
-</div>
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/execnakin">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/bruh__beee">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:markx054@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </div>
 
