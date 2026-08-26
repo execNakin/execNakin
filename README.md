@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:242424&height=180&section=header&text=Nakin%20BB&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:242424&height=180&section=header&text=Nakin%20BB&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Nakin BB">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Python+Developer;Based+in+Thailand;Learning+Next.js" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=500&lines=Python+Developer;Based+in+Thailand;Learning+Next.js" alt="Typing SVG">
 
 <br>
 
-<a href="https://github.com/execnakin">
-  <img src="https://komarev.com/ghpvc/?username=execnakin&label=Profile%20Views&color=666666&style=flat-square" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=execNakin&label=Profile%20Views&color=666666&style=flat-square" alt="Profile Views">
 
 </div>
 
@@ -40,32 +38,30 @@ Goal        Chulachomklao Royal Military Academy
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,django,dotnet,vue,csharp,cpp,c,php,mongodb,mysql,postgres,tensorflow,pytorch,opencv,pandas,gcp,firebase,git,linux,figma,unrealengine,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,django,dotnet,vue,csharp,cpp,c,php,mongodb,mysql,postgres,tensorflow,pytorch,opencv,pandas,gcp,firebase,git,linux,figma,unrealengine,vscode&perline=9" alt="Tech Stack">
 
 </div>
+
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/execnakin">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=execnakin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=111111&text_color=555555&icon_color=444444" alt="GitHub Stats"/>
-</a>
+<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=execNakin&show_icons=true&hide_border=true&theme=default&title_color=111111&text_color=555555&icon_color=444444" alt="GitHub Stats">
 
-<a href="https://github.com/execnakin">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=execnakin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=111111&text_color=555555" alt="Top Languages"/>
-</a>
+<img height="165" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=execNakin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=111111&text_color=555555" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=execnakin&hide_border=true&theme=default&ring=555555&fire=555555&currStreakLabel=555555" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=execNakin&hide_border=true&theme=default" alt="GitHub Streak">
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:0f0f0f&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:0f0f0f&height=110&section=footer" alt="Footer">
 
 </div>
